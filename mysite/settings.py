@@ -27,9 +27,10 @@ DEBUG = True
 
 # ALLOWED_HOSTS = []
 
-# ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'zitap123.pythonanywhere.com']
 
-ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]']
+# ALLOWED_HOSTS = ['localhost', '127.0.0.1', '[::1]']
+
 
 
 # Application definition
